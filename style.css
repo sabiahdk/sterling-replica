@@ -125,9 +125,26 @@ span{
 
 }
 
+.application{ display: flex;
+    gap:200px;
+  margin: 100px;
+  word-spacing: 7px;
+     font-size: smaller;
+    
+  /* background-color: ivory; */
 
 
+}
+.eligible{ width: 800px;
+   /* color: rgb(122, 122, 122); */
+}
 
+button{ margin: 35px;
+      padding:  30px 10px 10px 30px;
+        border-radius: 30px;
+        background-color: crimson;
+         color: white;
+}
 
 
 
